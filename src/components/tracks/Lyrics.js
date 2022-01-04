@@ -29,7 +29,7 @@ const Lyrics = () => {
     } else {
         return (
             <>
-                <Link to="/" className="btn btn-dark btn-sm mb-4">Go Back</Link>
+                <Link to="/react-lyric-finder" className="btn btn-dark btn-sm mb-4">Go Back</Link>
                 <div className="card mb-4">
                     <h5 className="card-header">
                         {track.track_name} by <span className="text-secondary">{track.artist_name}</span>
