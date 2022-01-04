@@ -1,3 +1,9 @@
+# react-lyric-finder
+
+A react app that finds lyrics of songs using the Musixmatch API \
+Disclaimer: Because I'm using the free version of the API, the app will only display 30% of the lyrics for each song. \
+[Live site](https://elemelonwind.github.io/react-lyric-finder)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
