@@ -28,7 +28,7 @@ const Lyrics = () => {
         return <Spinner />
     } else {
         return (
-            <>
+            <> 
                 <Link to="/react-lyric-finder" className="btn btn-dark btn-sm mb-4">Go Back</Link>
                 <div className="card mb-4">
                     <h5 className="card-header">
