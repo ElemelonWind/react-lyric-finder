@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-lyric-finder/static/css/main.31d6cfe0.css",
+    "main.js": "/react-lyric-finder/static/js/main.3a66cac3.js",
+    "static/js/787.0d6238ce.chunk.js": "/react-lyric-finder/static/js/787.0d6238ce.chunk.js",
+    "index.html": "/react-lyric-finder/index.html",
+    "main.3a66cac3.js.map": "/react-lyric-finder/static/js/main.3a66cac3.js.map",
+    "787.0d6238ce.chunk.js.map": "/react-lyric-finder/static/js/787.0d6238ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3a66cac3.js"
+  ]
+}
