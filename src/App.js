@@ -13,8 +13,8 @@ function App() {
           <Navbar />
           <div className="container">
             <Routes>
-              <Route exact path="/" element={<Index />} />
-              <Route exact path="/lyrics/track/:id" element={<Lyrics />} />
+              <Route exact path="/react-lyric-finder" element={<Index />} />
+              <Route exact path="/react-lyric-finder/lyrics/track/:id" element={<Lyrics />} />
             </Routes>
           </div>
         </>
